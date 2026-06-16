@@ -10,8 +10,8 @@ function App() {
       <div className="buttons">
         <button>BUSCAR ABOGADO</button>
         <button>SOY ABOGADO</button>
-        <button>Iniciar sesión</button>
-        <button>Registrarme</button>
+        <button>INICIAR SESIÓN</button>
+        <button>REGISTRARME</button>
       </div>
     </div>
   );
