@@ -102,3 +102,85 @@
 - Ver cancelaciones
 - Registrar advertencias
 - Suspender por incumplimiento
+
+# Flujo Cliente
+
+## Home
+
+- Buscador de abogados
+- Especialidad
+- Ciudad
+- Modalidad
+- Botón buscar
+
+---
+
+## Resultados de búsqueda
+
+- Lista de abogados
+- Foto
+- Nombre
+- Especialidad
+- Valor consulta
+- Calificación
+
+---
+
+## Perfil abogado
+
+- Información profesional
+- Experiencia
+- Especialidades
+- Opiniones
+- Agenda disponible
+
+---
+
+## Reserva de consulta
+
+- Fecha
+- Horario
+- Confirmación
+
+---
+
+## Mis reservas
+
+- Próximas
+- Finalizadas
+
+---
+
+# Flujo Abogado
+
+## Dashboard
+
+- Agenda del día
+- Próximas consultas
+- Calificaciones
+
+---
+
+## Perfil profesional
+
+- Datos personales
+- Especialidades
+- Valor consulta
+
+---
+
+## Disponibilidad
+
+- Crear horarios
+- Editar horarios
+- Eliminar horarios
+
+---
+
+# Flujo Administrador
+
+## Panel de control
+
+- Aprobar abogados
+- Suspender usuarios
+- Gestionar incidencias
