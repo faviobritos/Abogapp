@@ -1,3 +1,5 @@
+import { Link } from "react-router-dom";
+
 function PerfilProfesional() {
   return (
     <div className="page">
@@ -24,7 +26,9 @@ function PerfilProfesional() {
 
       <p>★★★★★ “Me orientó muy bien en mi consulta.”</p>
 
-      <button>SOLICITAR CONSULTA</button>
+      <Link to="/solicitar-consulta">
+        <button>SOLICITAR CONSULTA</button>
+      </Link>
     </div>
   );
 }

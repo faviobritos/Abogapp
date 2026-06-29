@@ -8,6 +8,8 @@ import Registro from "./pages/Registro";
 import SoyAbogado from "./pages/SoyAbogado";
 import ResultadosBusqueda from "./pages/ResultadosBusqueda";
 import PerfilProfesional from "./pages/PerfilProfesional";
+import SolicitarConsulta from "./pages/SolicitarConsulta";
+import TurnoConfirmado from "./pages/TurnoConfirmado";
 
 function App() {
   return (
@@ -21,6 +23,8 @@ function App() {
           <Route path="/registro" element={<Registro />} />
           <Route path="/soy-abogado" element={<SoyAbogado />} />
           <Route path="/perfil" element={<PerfilProfesional />} />
+          <Route path="/solicitar-consulta" element={<SolicitarConsulta />} />
+          <Route path="/turno-confirmado" element={<TurnoConfirmado />} />
         </Routes>
       </div>
     </BrowserRouter>
